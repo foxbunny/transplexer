@@ -1,0 +1,24 @@
+{
+  "name": "transplexer",
+  "version": "0.0.0",
+  "description": "Simple and lightweight reactive programming",
+  "main": "dist/transplexer.js",
+  "module": "dist/transplexer.mjs",
+  "browser": "dist/transplexer.umd.js",
+  "repository": "https://github.com/foxbunny/transplexer.git",
+  "author": "Hajime Yamasaki Vukelic <hayavuk@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "jest": "^24.8.0",
+    "rollup": "^1.13.1",
+    "rollup-plugin-commonjs": "^10.0.0",
+    "rollup-plugin-node-resolve": "^5.0.1"
+  }
+}
