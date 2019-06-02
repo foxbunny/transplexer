@@ -10,7 +10,8 @@
   "license": "MIT",
   "scripts": {
     "test": "jest",
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "prepublish": "yarn run build"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
