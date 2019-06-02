@@ -1,6 +1,6 @@
 {
   "name": "transplexer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Simple and lightweight reactive programming",
   "main": "dist/transplexer.js",
   "module": "dist/transplexer.mjs",
