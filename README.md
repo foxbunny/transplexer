@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/foxbunny/transplexer.svg?branch=master)](https://travis-ci.org/foxbunny/transplexer)
+
 # Transplexer
 
 A library for trivial reactive programming.
