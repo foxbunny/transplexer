@@ -38,7 +38,17 @@ See comparisons with RxJS further below.
 
 ## Installation
 
-TODO
+Install from the NPM repository with NPM:
+
+```bash
+npm install --save-dev transplexer
+```
+
+or with Yarn:
+
+```bash
+yarn add --dev transplexer
+```
 
 ## Quck tour
 
