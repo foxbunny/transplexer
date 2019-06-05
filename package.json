@@ -1,6 +1,6 @@
 {
   "name": "transplexer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple and lightweight reactive programming",
   "main": "dist/transplexer.js",
   "module": "dist/transplexer.mjs",
@@ -24,5 +24,8 @@
   },
   "dependencies": {
     "core-js": "2"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }
