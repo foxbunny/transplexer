@@ -66,13 +66,13 @@ between the transplexer and functional reactive libraries are:
 Install from the NPM repository with NPM:
 
 ```bash
-npm install --save-dev transplexer
+npm install transplexer
 ```
 
 or with Yarn:
 
 ```bash
-yarn add --dev transplexer
+yarn add transplexer
 ```
 
 ## Quck tour
